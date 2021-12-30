@@ -1,2 +1,2 @@
-# AgileAssg2
- This repository was made for the Agile course Assignment 2.
+# Read Me
+ Please refer to the documentation inside the repository since it includes all details.
